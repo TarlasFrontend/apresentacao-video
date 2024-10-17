@@ -1,2 +1,2 @@
 # apresentacao-video
-apresentação de um layoute de barbearia
+apresentação de um layout de barbearia
