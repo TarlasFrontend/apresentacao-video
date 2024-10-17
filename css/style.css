@@ -27,3 +27,17 @@ body{font-family: 'Roboto', sans-serif; font-size:1em; background:#cd1818 url(..
 
 h1{display:block;text-align: center;color:#f7f7f7;margin-bottom:1rem;font-size:1rem}
 .embed-responsive{border:solid 3px #ddd;border-radius:4px}
+
+
+
+@media (min-width:660px){
+    h1{font-size: 1.6rem;}
+    
+}
+
+@media (min-width:992px){
+    h1{font-size: 2rem;}
+    .conteudo{
+        padding-top: 8rem;
+    }
+}
